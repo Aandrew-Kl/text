@@ -1,5 +1,7 @@
 # Μέθοδος
 
+![](ch02_com.md){.complexity}
+
 ![](buxton-method.md){.epigraph}
 
 ![](abs-method.md){.include}

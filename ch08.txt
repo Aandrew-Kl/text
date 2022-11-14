@@ -1,5 +1,7 @@
 #  Τεχνολογία
 
+![](ch08_com.md){.complexity}
+
 ![](kay-software.md){.epigraph}
 
 ![](abs-technology.md){.include}

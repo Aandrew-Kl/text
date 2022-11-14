@@ -1,5 +1,7 @@
 # Μοντέλα
 
+![](ch05_com.md){.complexity}
+
 ![](dyson-models.md){.epigraph}
 
 ![](abs-models.md){.include}

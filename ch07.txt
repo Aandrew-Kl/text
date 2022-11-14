@@ -1,5 +1,7 @@
 # Μορφές
 
+![](ch07_com.md){.complexity}
+
 ![](lanier-instrument.md){.epigraph}
 
 ![](abs-forms.md){.include}

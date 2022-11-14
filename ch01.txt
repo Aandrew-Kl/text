@@ -1,5 +1,7 @@
 # Ορισμός
 
+![](ch01_com.md){.complexity}
+
 ![](victor-definition.md){.epigraph}
 
 ![](abs-definition.md){.include}

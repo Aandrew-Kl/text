@@ -1,5 +1,7 @@
 # Σύνθεση
 
+![](ch06_com.md){.complexity}
+
 ![](licklider-augmentation.md){.epigraph}
 
 ![](abs-synthesis.md){.include}

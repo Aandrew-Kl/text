@@ -1,5 +1,7 @@
 # Αρχέτυπα
 
+![](ch03_com.md){.complexity}
+
 ![](kay-archetypes.md){.epigraph}
 
 ![](abs-archetypes.md){.include}
