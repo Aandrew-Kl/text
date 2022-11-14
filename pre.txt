@@ -1,4 +1,4 @@
-# Πρόλογος
+# Πρόλογος {-}
 
 ![](aristotle-learning.md){.epigraph}
 

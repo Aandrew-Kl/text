@@ -1,4 +1,4 @@
-# Εισαγωγή
+# Εισαγωγή {-}
 
 ![](holt-learning.md){.epigraph}
 
